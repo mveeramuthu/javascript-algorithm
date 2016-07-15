@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../nodejs-algorithm/.idea/nodejs-algorithm.iml" filepath="$PROJECT_DIR$/../nodejs-algorithm/.idea/nodejs-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nodejs-algorithm.iml" filepath="$PROJECT_DIR$/.idea/nodejs-algorithm.iml" />
     </modules>
   </component>
 </project>
