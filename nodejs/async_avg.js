@@ -29,3 +29,5 @@ function cbForAvg(err, data) {
 }
 
 avg(5, 3, cbForAvg);
+avg(-5, 3.5, cbForAvg);
+avg(-7, -4, cbForAvg);
